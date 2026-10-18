@@ -1,0 +1,157 @@
+transaction_id,date,description,amount,category,data_source
+SYN0001,2026-01-01,Swiggy order for dinner,655.06,Food,synthetic
+SYN0002,2026-02-02,Zomato restaurant payment,979.63,Food,synthetic
+SYN0003,2026-03-03,lunch at local cafe,1154.96,Food,synthetic
+SYN0004,2026-04-04,pizza delivery,390.17,Food,synthetic
+SYN0005,2026-05-05,coffee and sandwich,933.36,Food,synthetic
+SYN0006,2026-06-06,breakfast restaurant bill,862.81,Food,synthetic
+SYN0007,2026-07-07,grocery snacks and juice,813.98,Food,synthetic
+SYN0008,2026-08-08,food court meal,185.58,Food,synthetic
+SYN0009,2026-09-09,bakery cake purchase,90.71,Food,synthetic
+SYN0010,2026-01-10,takeaway biryani order,497.96,Food,synthetic
+SYN0011,2026-02-11,dining at family restaurant,910.89,Food,synthetic
+SYN0012,2026-03-12,tea shop payment,347.72,Food,synthetic
+SYN0013,2026-04-13,ice cream shop,631.83,Food,synthetic
+SYN0014,2026-05-14,online food delivery,421.88,Food,synthetic
+SYN0015,2026-06-15,canteen lunch payment,1024.81,Food,synthetic
+SYN0016,2026-01-01,weekly grocery store purchase,2841.06,Groceries,synthetic
+SYN0017,2026-02-02,rice and dal from supermarket,1264.61,Groceries,synthetic
+SYN0018,2026-03-03,vegetables at market,2995.5,Groceries,synthetic
+SYN0019,2026-04-04,milk bread and eggs,280.36,Groceries,synthetic
+SYN0020,2026-05-05,fruit shop purchase,2456.57,Groceries,synthetic
+SYN0021,2026-06-06,supermarket household groceries,2638.42,Groceries,synthetic
+SYN0022,2026-07-07,cooking oil and spices,537.65,Groceries,synthetic
+SYN0023,2026-08-08,grocery delivery order,2146.15,Groceries,synthetic
+SYN0024,2026-09-09,lentils and flour,1720.79,Groceries,synthetic
+SYN0025,2026-01-10,fresh vegetables purchase,2870.04,Groceries,synthetic
+SYN0026,2026-02-11,monthly provisions,709.03,Groceries,synthetic
+SYN0027,2026-03-12,grocery shop bill,1665.89,Groceries,synthetic
+SYN0028,2026-04-13,cereal and breakfast supplies,2659.12,Groceries,synthetic
+SYN0029,2026-05-14,farmers market produce,1952.44,Groceries,synthetic
+SYN0030,2026-06-15,packed food supplies,996.68,Groceries,synthetic
+SYN0031,2026-01-01,Uber ride to college,223.02,Transportation,synthetic
+SYN0032,2026-02-02,Ola cab trip,2350.64,Transportation,synthetic
+SYN0033,2026-03-03,city bus ticket,1195.76,Transportation,synthetic
+SYN0034,2026-04-04,metro travel card recharge,2490.89,Transportation,synthetic
+SYN0035,2026-05-05,train ticket booking,371.19,Transportation,synthetic
+SYN0036,2026-06-06,auto rickshaw fare,2034.27,Transportation,synthetic
+SYN0037,2026-07-07,petrol station fuel,2037.18,Transportation,synthetic
+SYN0038,2026-08-08,parking fee,2301.54,Transportation,synthetic
+SYN0039,2026-09-09,vehicle toll payment,64.23,Transportation,synthetic
+SYN0040,2026-01-10,bike taxi ride,943.04,Transportation,synthetic
+SYN0041,2026-02-11,local bus pass,148.14,Transportation,synthetic
+SYN0042,2026-03-12,airport cab fare,1885.05,Transportation,synthetic
+SYN0043,2026-04-13,car fuel refill,899.51,Transportation,synthetic
+SYN0044,2026-05-14,railway ticket,2399.57,Transportation,synthetic
+SYN0045,2026-06-15,vehicle service travel charge,949.58,Transportation,synthetic
+SYN0046,2026-01-01,Amazon online shopping order,9315.06,Shopping,synthetic
+SYN0047,2026-02-02,new running shoes,10426.69,Shopping,synthetic
+SYN0048,2026-03-03,clothing store purchase,2943.46,Shopping,synthetic
+SYN0049,2026-04-04,headphones online order,6726.12,Shopping,synthetic
+SYN0050,2026-05-05,mobile phone case,11492.97,Shopping,synthetic
+SYN0051,2026-06-06,department store purchase,6370.32,Shopping,synthetic
+SYN0052,2026-07-07,backpack purchase,4380.52,Shopping,synthetic
+SYN0053,2026-08-08,watch from retail store,3279.68,Shopping,synthetic
+SYN0054,2026-09-09,fashion accessories,9458.99,Shopping,synthetic
+SYN0055,2026-01-10,online electronics purchase,2393.7,Shopping,synthetic
+SYN0056,2026-02-11,shirt and jeans purchase,7286.37,Shopping,synthetic
+SYN0057,2026-03-12,gift shop purchase,6711.0,Shopping,synthetic
+SYN0058,2026-04-13,home decor item,6686.42,Shopping,synthetic
+SYN0059,2026-05-14,shopping mall bill,1640.88,Shopping,synthetic
+SYN0060,2026-06-15,sports equipment purchase,7936.93,Shopping,synthetic
+SYN0061,2026-01-01,monthly electricity bill,4590.99,Utilities,synthetic
+SYN0062,2026-02-02,water bill payment,1662.51,Utilities,synthetic
+SYN0063,2026-03-03,home internet bill,1727.16,Utilities,synthetic
+SYN0064,2026-04-04,mobile phone recharge,4554.3,Utilities,synthetic
+SYN0065,2026-05-05,gas cylinder payment,2933.89,Utilities,synthetic
+SYN0066,2026-06-06,broadband subscription,1435.63,Utilities,synthetic
+SYN0067,2026-07-07,utility service charge,147.84,Utilities,synthetic
+SYN0068,2026-08-08,electricity board payment,3791.02,Utilities,synthetic
+SYN0069,2026-09-09,DTH recharge,1805.22,Utilities,synthetic
+SYN0070,2026-01-10,postpaid phone bill,2389.08,Utilities,synthetic
+SYN0071,2026-02-11,home gas payment,1435.26,Utilities,synthetic
+SYN0072,2026-03-12,internet service renewal,3202.2,Utilities,synthetic
+SYN0073,2026-04-13,water supply charge,3672.02,Utilities,synthetic
+SYN0074,2026-05-14,mobile data plan,1617.96,Utilities,synthetic
+SYN0075,2026-06-15,cable television bill,467.65,Utilities,synthetic
+SYN0076,2026-01-01,Apollo Pharmacy medicine,5921.8,Healthcare,synthetic
+SYN0077,2026-02-02,doctor consultation fee,5467.44,Healthcare,synthetic
+SYN0078,2026-03-03,clinic appointment,202.32,Healthcare,synthetic
+SYN0079,2026-04-04,hospital laboratory test,3419.97,Healthcare,synthetic
+SYN0080,2026-05-05,prescription medicine purchase,4141.11,Healthcare,synthetic
+SYN0081,2026-06-06,dental checkup,2465.84,Healthcare,synthetic
+SYN0082,2026-07-07,medical supplies purchase,4411.31,Healthcare,synthetic
+SYN0083,2026-08-08,health checkup payment,5762.11,Healthcare,synthetic
+SYN0084,2026-09-09,eye clinic visit,3573.67,Healthcare,synthetic
+SYN0085,2026-01-10,pharmacy bill,2398.12,Healthcare,synthetic
+SYN0086,2026-02-11,medical scan fee,1238.24,Healthcare,synthetic
+SYN0087,2026-03-12,first aid supplies,1568.4,Healthcare,synthetic
+SYN0088,2026-04-13,physiotherapy session,972.74,Healthcare,synthetic
+SYN0089,2026-05-14,vaccination fee,733.61,Healthcare,synthetic
+SYN0090,2026-06-15,hospital consultation,1337.35,Healthcare,synthetic
+SYN0091,2026-01-01,college notebook purchase,12638.26,Education,synthetic
+SYN0092,2026-02-02,textbook bookstore payment,8077.82,Education,synthetic
+SYN0093,2026-03-03,online course fee,12083.79,Education,synthetic
+SYN0094,2026-04-04,exam registration fee,13806.78,Education,synthetic
+SYN0095,2026-05-05,stationery shop bill,12171.23,Education,synthetic
+SYN0096,2026-06-06,college tuition payment,789.17,Education,synthetic
+SYN0097,2026-07-07,coding course subscription,13893.09,Education,synthetic
+SYN0098,2026-08-08,lab manual purchase,1437.24,Education,synthetic
+SYN0099,2026-09-09,printing class notes,11575.94,Education,synthetic
+SYN0100,2026-01-10,school supplies,12592.21,Education,synthetic
+SYN0101,2026-02-11,educational workshop fee,9878.9,Education,synthetic
+SYN0102,2026-03-12,library membership,6085.06,Education,synthetic
+SYN0103,2026-04-13,academic software subscription,1171.51,Education,synthetic
+SYN0104,2026-05-14,study guide purchase,1323.04,Education,synthetic
+SYN0105,2026-06-15,college event fee,9565.72,Education,synthetic
+SYN0106,2026-01-01,movie ticket booking,1042.65,Entertainment,synthetic
+SYN0107,2026-02-02,music streaming subscription,2175.9,Entertainment,synthetic
+SYN0108,2026-03-03,concert ticket,1134.39,Entertainment,synthetic
+SYN0109,2026-04-04,video game purchase,737.3,Entertainment,synthetic
+SYN0110,2026-05-05,bowling alley payment,1251.43,Entertainment,synthetic
+SYN0111,2026-06-06,theme park entry,2926.98,Entertainment,synthetic
+SYN0112,2026-07-07,cinema snacks and ticket,1998.57,Entertainment,synthetic
+SYN0113,2026-08-08,OTT streaming subscription,1631.8,Entertainment,synthetic
+SYN0114,2026-09-09,museum entry ticket,1997.28,Entertainment,synthetic
+SYN0115,2026-01-10,gaming cafe payment,2260.54,Entertainment,synthetic
+SYN0116,2026-02-11,live show ticket,2111.1,Entertainment,synthetic
+SYN0117,2026-03-12,karaoke session,1835.73,Entertainment,synthetic
+SYN0118,2026-04-13,sports match ticket,3872.8,Entertainment,synthetic
+SYN0119,2026-05-14,arcade game payment,3031.76,Entertainment,synthetic
+SYN0120,2026-06-15,music event booking,993.34,Entertainment,synthetic
+SYN0121,2026-01-01,salon haircut payment,1168.4,Personal Care,synthetic
+SYN0122,2026-02-02,shampoo and skincare purchase,725.69,Personal Care,synthetic
+SYN0123,2026-03-03,beauty salon visit,1325.2,Personal Care,synthetic
+SYN0124,2026-04-04,personal grooming products,177.05,Personal Care,synthetic
+SYN0125,2026-05-05,barber shop bill,2626.2,Personal Care,synthetic
+SYN0126,2026-06-06,skin care cream,2022.18,Personal Care,synthetic
+SYN0127,2026-07-07,cosmetics store purchase,1525.57,Personal Care,synthetic
+SYN0128,2026-08-08,spa appointment,3135.55,Personal Care,synthetic
+SYN0129,2026-09-09,hair oil purchase,1204.31,Personal Care,synthetic
+SYN0130,2026-01-10,soap and toiletries,2058.76,Personal Care,synthetic
+SYN0131,2026-02-11,manicure service,3259.77,Personal Care,synthetic
+SYN0132,2026-03-12,perfume purchase,1981.04,Personal Care,synthetic
+SYN0133,2026-04-13,facial treatment payment,2176.38,Personal Care,synthetic
+SYN0134,2026-05-14,body lotion purchase,1338.4,Personal Care,synthetic
+SYN0135,2026-06-15,grooming service,3493.49,Personal Care,synthetic
+SYN0136,2026-01-01,monthly house rent,18918.6,Housing,synthetic
+SYN0137,2026-02-02,apartment maintenance fee,7722.96,Housing,synthetic
+SYN0138,2026-03-03,furniture repair,9016.79,Housing,synthetic
+SYN0139,2026-04-04,plumber home repair,14869.42,Housing,synthetic
+SYN0140,2026-05-05,home cleaning service,13062.18,Housing,synthetic
+SYN0141,2026-06-06,curtain purchase for home,13178.0,Housing,synthetic
+SYN0142,2026-07-07,carpenter service charge,4963.81,Housing,synthetic
+SYN0143,2026-08-08,pest control service,14477.43,Housing,synthetic
+SYN0144,2026-09-09,house painting expense,17657.89,Housing,synthetic
+SYN0145,2026-01-10,building maintenance payment,19171.79,Housing,synthetic
+SYN0146,2026-02-11,door lock repair,11344.63,Housing,synthetic
+SYN0147,2026-03-12,home appliance repair,11249.83,Housing,synthetic
+SYN0148,2026-04-13,moving service fee,12705.59,Housing,synthetic
+SYN0149,2026-05-14,rental deposit,13499.08,Housing,synthetic
+SYN0150,2026-06-15,household repair materials,11978.17,Housing,synthetic
+SYN0151,2026-10-01,online payment,500.0,Shopping,synthetic
+SYN0152,2026-10-01,store purchase,240.0,Groceries,synthetic
+SYN0153,2026-10-01,monthly payment,999.0,Utilities,synthetic
+SYN0154,2026-10-01,payment to merchant,300.0,Food,synthetic
+SYN0155,2026-10-01,service charge,150.0,Transportation,synthetic
+SYN0156,2026-10-01,purchase,450.0,Shopping,synthetic
